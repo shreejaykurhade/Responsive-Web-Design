@@ -1,2 +1,1 @@
-# Responsive-Web-Design-
-FreeCodeCamp course
+# Responsive-Web-Design
